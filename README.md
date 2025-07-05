@@ -6,6 +6,7 @@ repository.
 2. ```bash 
     touch ~/neovim/.config/init.lua
 ```
+
 3. ```bash
    gedit ~/neovim/.config/init.lua
 ```
