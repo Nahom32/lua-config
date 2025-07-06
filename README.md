@@ -7,8 +7,7 @@ repository.
     touch ~/neovim/.config/init.lua
 ```
 
-3. 
-```bash
+3. ```
      gedit ~/neovim/.config/init.lua
 ```
 4. copy and paste the content of ```boiler-plate.lua``` to ```init.lua```
